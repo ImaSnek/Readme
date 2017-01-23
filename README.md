@@ -1,2 +1,0 @@
-# Readme
-free code camp
